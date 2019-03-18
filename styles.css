@@ -11,3 +11,11 @@ body{
   text-align:center;
 
   }
+
+  .sidebar{
+    width:30%
+    float:right;
+    background-color: yellow;
+  }
+
+  
