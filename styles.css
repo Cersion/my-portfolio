@@ -1,0 +1,24 @@
+h1{
+  font-style: italic;
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+body{
+  background-color: grey;
+  text-align:center;
+
+  }
+.sidebar{
+  width:30%
+  float:right;
+  background-color: yellow;
+}
+
+.test-box{
+    border-left:2px solid white;
+    border-right:4px solid blue;
+}
+
+}
