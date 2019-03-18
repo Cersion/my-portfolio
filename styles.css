@@ -22,3 +22,7 @@ body{
       border-left:2px solid white;
       border-right:4px solid blue;
   }
+
+  p{
+    font-family: fantasy;
+  }
